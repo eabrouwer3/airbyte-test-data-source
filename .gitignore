@@ -1,0 +1,6 @@
+# Normally this should be ignored, but because this API doesn't take any credentials, we don't need it
+# secrets/config.json
+
+*.egg-info/
+.venv
+__pycache__/
